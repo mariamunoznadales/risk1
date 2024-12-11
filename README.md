@@ -1,5 +1,6 @@
-# Juego de Estrategia: Generación de Combinaciones y Estrategias
+# Juego de Estrategia RISK
 
+LINK REPOSITORIO: (https://github.com/mariamunoznadales/risk1.git)
 Este programa simula un juego de estrategia en el que puedes crear combinaciones de tropas y planificar un ataque a territorios enemigos. Genera todas las combinaciones posibles de tropas respetando los recursos disponibles y evalúa las estrategias viables de ataque, considerando el orden de los territorios y las restricciones de recursos.
 
 ## Características
